@@ -1,8 +1,0 @@
-[server]
-runOnSave = true
-
-[theme]
-base = "light"
-primaryColor = "#5865F2"
-secondaryBackgroundColor = "#FFFFFF"
-textColor = "#1E1E2E"
